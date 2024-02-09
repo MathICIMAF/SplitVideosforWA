@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<ListPreference android:enabled="true" android:entries="@array/formats" android:title="@string/format" android:selectable="true" android:key="format" android:summary="@string/select_format" android:defaultValue="mp3" android:entryValues="@array/formats"/>
+    -->
+    <EditTextPreference
+        android:key="seconds"
+        android:defaultValue="30"
+        android:inputType="number"
+        android:singleLine="true"
+        android:dialogTitle="@string/trim_time"
+        android:title="@string/trim_time"
+        android:summary="@string/trim_tim_explanation"/>
+
+
+
+</PreferenceScreen>

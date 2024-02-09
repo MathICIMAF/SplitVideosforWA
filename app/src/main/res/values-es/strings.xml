@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dividir Videos para WA</string>
+    <string name="split_fast">Dividir video</string>
+    <string name="split_quality">Split High\nQuality</string>
+    <string name="open_path">Resultados</string>
+    <string name="progress">Progreso</string>
+    <string name="delete">Eliminar</string>
+    <string name="share">Compartir</string>
+    <string name="settings">Ajustes</string>
+    <string name="select">Seleccionar todos</string>
+
+    <string name="empty">Carpeta vacía</string>
+    <string name="completed">Proceso de división finalizado!!!</string>
+    <string name="folder">Carpeta de salidas:</string>
+    <string name="delete_video">Eliminar Videos</string>
+    <string name="pos_delete">Eliminar</string>
+    <string name="neg_delete">Cancelar</string>
+    <string name="msj_delete">Los videos seleccionados serán borrados</string>
+    <string name="msj">La duración del video debe ser mayor que el tiempo en que se va a dividir cada parte</string>
+    <string name="trim_time">Tiempo de recorte</string>
+    <string name="trim_tim_explanation">Después de dividir el vide, cada parte tendrá este tiempo de duración</string>
+</resources>

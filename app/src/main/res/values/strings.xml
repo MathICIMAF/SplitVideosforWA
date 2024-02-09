@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Split Videos for WA</string>
+    <string name="split_fast">Split Video</string>
+    <string name="split_quality">Split High\nQuality</string>
+    <string name="open_path">Outputs</string>
+    <string name="progress">Progress</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="select">Select All</string>
+
+    <string name="empty">Empty folder</string>
+    <string name="completed">Trim video completed!!!</string>
+    <string name="folder">Output Folder:</string>
+    <string name="delete_video">Delete Videos</string>
+    <string name="pos_delete">DELETE</string>
+    <string name="neg_delete">CANCEL</string>
+    <string name="msj_delete">Selected videos were deleted</string>
+    <string name="msj">Video duration must be greater than trim time</string>
+    <string name="trim_time">Video trim time</string>
+    <string name="trim_tim_explanation">After video splitting each part will have this time duration</string>
+</resources>
